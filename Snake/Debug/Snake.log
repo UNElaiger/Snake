@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\C++\Snake\Snake\main.cpp(43,38): error C2065: a: необъявленный идентификатор
+D:\C++\Snake\Snake\main.cpp(44,4): error C2143: синтаксическая ошибка: отсутствие ";" перед "else"
+D:\C++\Snake\Snake\main.cpp(44,4): error C2181: недопустимый else без парного if
+D:\C++\Snake\Snake\main.cpp(152,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
